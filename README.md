@@ -1,15 +1,6 @@
 <h1 align="center">Hi, I'm Epa Crypt 👋</h1>
 
 ---
-
-🌱 **I’m currently learning**:  
-Full Stack Development – focusing on Smart Contract technology, frontend, and backend to build complete and scalable applications.
-
-🤝 **I’m looking to collaborate on**:  
-Web Development Projects – open to working with other developers on real-world solutions.
-
-![Profile Views](https://komarev.com/ghpvc/?username=epacrypt25&style=for-the-badge)
-
 ## Languages and Tools:
 <div style="background-color: #000; border: 2px solid #444; border-radius: 10px; padding: 20px; margin-bottom: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <!-- Tech Stack Badges -->
