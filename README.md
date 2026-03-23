@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eko Purnama Azi 👋</h1>
 <p align="center">
-  <blink>Frontend Developer 💻</blink>
+  <marquee behavior="alternate" scrollamount="3">Frontend Developer 💻</marquee>
 </p>
 <h6 align="center">FullStack Developer | Building Web3 Applications</h6>
 <p align="center">
