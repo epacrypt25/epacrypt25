@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Epa Crypt 👋</h1>
+<h1 align="center">Hi, I'm Eko Purnama Azi 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
