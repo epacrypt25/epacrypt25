@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Eko Purnama Azi 👋</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=react&logoColor=white" />
-</p>
 <h6 align="center">FullStack Developer | Building Web3 Applications</h6>
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
